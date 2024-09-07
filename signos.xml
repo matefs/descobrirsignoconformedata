@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<signos>
+  <signo>
+    <dataInicio>21/03</dataInicio>
+    <dataFim>20/04</dataFim>
+    <signoNome>Áries</signoNome>
+    <descricao>Áries é o primeiro signo do zodíaco, representado pelo carneiro. Pessoas de Áries são corajosas, enérgicas e impulsivas. Elas gostam de desafios e não têm medo de tomar a iniciativa.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>21/04</dataInicio>
+    <dataFim>20/05</dataFim>
+    <signoNome>Touro</signoNome>
+    <descricao>Touro é o segundo signo do zodíaco, representado pelo touro. Pessoas de Touro são práticas, confiáveis e gostam de conforto. Elas valorizam a estabilidade e apreciam os prazeres da vida.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>21/05</dataInicio>
+    <dataFim>20/06</dataFim>
+    <signoNome>Gêmeos</signoNome>
+    <descricao>Gêmeos é o terceiro signo do zodíaco, representado pelos gêmeos. Pessoas de Gêmeos são curiosas, comunicativas e versáteis. Elas gostam de aprender coisas novas e têm facilidade em se adaptar a diferentes situações.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>21/06</dataInicio>
+    <dataFim>22/07</dataFim>
+    <signoNome>Câncer</signoNome>
+    <descricao>Câncer é o quarto signo do zodíaco, representado pelo caranguejo. Pessoas de Câncer são emocionais, intuitivas e protetoras. Elas valorizam a família e o lar, e tendem a ser sensíveis e afetuosas.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>23/07</dataInicio>
+    <dataFim>22/08</dataFim>
+    <signoNome>Leão</signoNome>
+    <descricao>Leão é o quinto signo do zodíaco, representado pelo leão. Pessoas de Leão são confiantes, dramáticas e generosas. Elas gostam de estar no centro das atenções e tendem a ser líderes naturais.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>23/08</dataInicio>
+    <dataFim>22/09</dataFim>
+    <signoNome>Virgem</signoNome>
+    <descricao>Virgem é o sexto signo do zodíaco, representado pela virgem. Pessoas de Virgem são práticas, analíticas e perfeccionistas. Elas gostam de organização e tendem a ser críticas e exigentes consigo mesmas e com os outros.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>23/09</dataInicio>
+    <dataFim>22/10</dataFim>
+    <signoNome>Libra</signoNome>
+    <descricao>Libra é o sétimo signo do zodíaco, representado pela balança. Pessoas de Libra são diplomáticas, sociáveis e buscam equilíbrio. Elas valorizam a harmonia e tendem a ser indecisas.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>23/10</dataInicio>
+    <dataFim>21/11</dataFim>
+    <signoNome>Escorpião</signoNome>
+    <descricao>Escorpião é o oitavo signo do zodíaco, representado pelo escorpião. Pessoas de Escorpião são intensas, misteriosas e emocionalmente profundas. Elas tendem a ser ciumentas e vingativas, mas também leais e apaixonadas.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>22/11</dataInicio>
+    <dataFim>21/12</dataFim>
+    <signoNome>Sagitário</signoNome>
+    <descricao>Sagitário é o nono signo do zodíaco, representado pelo arqueiro. Pessoas de Sagitário são otimistas, aventureiras e diretas. Elas gostam de explorar novas ideias e culturas, e tendem a ser honestas e diretas.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>22/12</dataInicio>
+    <dataFim>19/01</dataFim>
+    <signoNome>Capricórnio</signoNome>
+    <descricao>Capricórnio é o décimo signo do zodíaco, representado pela cabra. Pessoas de Capricórnio são ambiciosas, disciplinadas e práticas. Elas valorizam a responsabilidade e tendem a ser cautelosas e realistas.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>20/01</dataInicio>
+    <dataFim>18/02</dataFim>
+    <signoNome>Aquário</signoNome>
+    <descricao>Aquário é o décimo primeiro signo do zodíaco, representado pelo portador de água. Pessoas de Aquário são independentes, inovadoras e humanitárias. Elas gostam de pensar fora da caixa e tendem a ser amigáveis e sociáveis.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>19/02</dataInicio>
+    <dataFim>20/03</dataFim>
+    <signoNome>Peixes</signoNome>
+    <descricao>Peixes é o décimo segundo signo do zodíaco, representado pelos peixes. Pessoas de Peixes são intuitivas, compassivas e sonhadoras. Elas tendem a ser sensíveis e imaginativas, e gostam de se conectar com os outros em um nível profundo.</descricao>
+  </signo>
+</signos>
